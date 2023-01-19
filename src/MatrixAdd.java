@@ -48,7 +48,8 @@ public class MatrixAdd {
 				System.out.print(res[i][j]);
 				System.out.print("\t");
 			}
-			System.out.println("");
+			
+			
 		}
 	}
 
